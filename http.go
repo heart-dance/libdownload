@@ -1,4 +1,4 @@
-package down
+package libdownload
 
 type HttpClient interface{}
 

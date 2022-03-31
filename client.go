@@ -1,4 +1,4 @@
-package down
+package libdownload
 
 type Client interface{}
 
